@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         let button = UIButton()
         button.backgroundColor = .black
         button.setTitle("Text to Image", for: .normal)
-        button.setTitleColor(.white, for: .normal)
+        button.setTitleColor(.green, for: .normal)
         return button
     }()
     
